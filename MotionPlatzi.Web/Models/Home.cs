@@ -13,7 +13,7 @@ namespace MotionPlatzi.Web.Models
 
 
 
-        public int hi { get; set; }
+        
     }
 
    
